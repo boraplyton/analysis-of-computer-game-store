@@ -1,3 +1,6 @@
+
+**[Просмотр ноутбука с интерактивными графиками](https://nbviewer.org/github/boraplyton/analysis-of-computer-game-store/blob/a891d835f661dfd7b51bc90a71567d0207a13fbb/streamer.ipynb)**
+
 # Анализ продаж интернет магазина компьютерных игр
 
 # Задача
